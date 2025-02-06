@@ -1,6 +1,3 @@
-Certainly! Here's a refined version of your project summary:
-
----
 
 # Employee Performance Analysis
 
